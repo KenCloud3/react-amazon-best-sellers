@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-amazon-best-sellers/static/css/main.cdcc6d89.css",
+    "main.js": "/react-amazon-best-sellers/static/js/main.98f0ee34.js",
+    "static/media/book-3.jpg": "/react-amazon-best-sellers/static/media/book-3.5a30bc20f8edb4c837c8.jpg",
+    "static/media/book-1.jpg": "/react-amazon-best-sellers/static/media/book-1.14d54e622a78d893efe6.jpg",
+    "static/media/book-2.jpg": "/react-amazon-best-sellers/static/media/book-2.cca9cf37501edf8cb720.jpg",
+    "index.html": "/react-amazon-best-sellers/index.html",
+    "main.cdcc6d89.css.map": "/react-amazon-best-sellers/static/css/main.cdcc6d89.css.map",
+    "main.98f0ee34.js.map": "/react-amazon-best-sellers/static/js/main.98f0ee34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdcc6d89.css",
+    "static/js/main.98f0ee34.js"
+  ]
+}
